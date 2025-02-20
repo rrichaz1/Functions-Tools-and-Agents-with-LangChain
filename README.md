@@ -27,4 +27,13 @@ Outline:
 
 ![LCEL Advantages](LCEL-Advantage.png)
 
-
+1\ Anthropic - Effective AI Agents
+2\ Menlo Ventures - Agent Architectures 
+3\ Deloitte - Multi-Agents
+4\ Microsoft - Agents Not Enough
+5\ Uni Chicago - Vertical AI Agents
+6\ AWS - Agent Best Practices
+7\ Sequoia - GenAI Act o1
+8\ McKinsey - Next Frontier
+9\ Google - Agents
+10\ WEF - Rise of AI Agents
